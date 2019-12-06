@@ -9,7 +9,7 @@ let myCat = {
 
 console.log(myCat);
 
-console.log(myCat.name,myCat.age,myCat.color);
+console.log(myCat.name,myCat.age,myCat.color,myCat.food);
 
 
 
