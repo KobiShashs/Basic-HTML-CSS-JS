@@ -54,7 +54,7 @@ if(a){
   console.log("undefined==null",undefined==null)
   console.log("false==''",false=="")
   console.log("0==''",0=="")
-console.log("****************************************************");
+ console.log("****************************************************");
 
   //strict comparison
   console.log("0===false",0===false)
