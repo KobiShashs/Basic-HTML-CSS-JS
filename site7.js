@@ -1,6 +1,7 @@
-"use strict"
+"use strict";
+
 function f(){
-    z = 123;
+   var z = 123;
 }
 
 f();

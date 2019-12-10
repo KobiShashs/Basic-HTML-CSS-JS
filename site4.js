@@ -1,25 +1,25 @@
 let a = 10;
 
-console.log("a="+a);
+console.log("a="+a); //10
 
 ///console.log("b="+b);
 
 function f(){
 
     let b = 20;
-    console.log("a="+a);
-    console.log("b="+b);
+    console.log("a="+a); //10
+    console.log("b="+b); //20
     if(true){
-     let c = 30;
-     console.log("a="+a);
-     console.log("b="+b);
-     console.log("c="+c);
+     var c = 30;
+     console.log("a="+a);//10
+     console.log("b="+b);//20
+     console.log("c="+c);//30
 
     }
 
-    console.log("a="+a);
-    console.log("b="+b);
-    console.log("c="+c);
+    console.log("a="+a); //10
+    console.log("b="+b); //20
+    console.log("c="+c);//Error
     
 
 

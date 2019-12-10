@@ -20,3 +20,6 @@ console.log(date, typeof date)
 
 var alrt = alert;
 console.log(alrt, typeof alrt)
+
+let myDog = new Dog("Milky",11,"White-Brown");
+console.log(myDog);

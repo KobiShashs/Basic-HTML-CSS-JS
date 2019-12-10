@@ -1,5 +1,5 @@
 
-//CTOR function
+// CTOR function:
 function Cat (name,age,color) {
     this.name= name,
     this.age= age,

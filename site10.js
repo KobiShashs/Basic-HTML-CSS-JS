@@ -13,3 +13,15 @@
 })();
 
 //doSomething();
+
+
+var something = (function (){
+    console.log("Hello Java 822.8 Haifa");
+    return "Kobi";
+})();
+
+console.log(something);
+
+
+
+//f();

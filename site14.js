@@ -4,5 +4,6 @@ function f(){
     
 }
 
-let obj = new f();
-console.log(obj);
+
+ let obj = new f();
+ console.log(obj);
